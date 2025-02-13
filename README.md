@@ -14,9 +14,8 @@ This repository contains the solutions for the SQL assignment provided by SuperP
 
 ```
 |-- README.md                   # This file (instructions and overview)
-|-- query_solutions_united.sql  # SQL script containing the answers to all assignment questions
 |-- queries/                    # Directory for individual SQL queries
-|-- datasets/                   # Sample data used for testing queries
+|-- dataset/                    # data used for testing queries
 ```
 
 ## Instructions for reviewer
